@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countrey-mans complaint, and advice to the King</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80682</idno>
+            <idno type="STC">Wing C6549</idno>
+            <idno type="STC">ESTC R231335</idno>
+            <idno type="EEBO-CITATION">99897277</idno>
+            <idno type="PROQUEST">99897277</idno>
+            <idno type="VID">170827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2478:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countrey-mans complaint, and advice to the King</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Re-printed in the year, 1681.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Verse - "We only can admire those happy times".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:170827:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <head>THE Countrey-mans Complaint, AND Advice to the KING.</head>
+            <l>WE only can admire thoſe happy times</l>
+            <l>Of Innocence, unskill'd in Laws and Crimes;</l>
+            <l>When Gods were known by Bleſſings, own'd by Prayer,</l>
+            <l>And 'twas no part of Worſhip for to ſwear:</l>
+            <l>Clearer than Fountains, and more free than thoſe,</l>
+            <l>Impartial Truth they all to each diſcloſe.</l>
+            <l>To hear, and to believe were ſtrictly joyn'd,</l>
+            <l>And Speech thus anſwer'd what it firſt deſign'd.</l>
+            <l>But Oh unhappy ſtate of Humane kind!</l>
+            <l>Nought dreadful now our Awe, or Faith can bind.</l>
+            <lg>
+               <l>Vows and Religions are but bare pretence,</l>
+               <l>Oaths are found out to ſhackle Innocence,</l>
+               <l>And Laws muſt ſerve a perjur'd Impudence.</l>
+            </lg>
+            <l>Tumults addreſs for Blood, Witneſs for Hire deceives,</l>
+            <l>And Judge is forc'd to Sentence what he ne're believes.</l>
+            <l>All Truth and Juſtice, bluſhingly withdraw,</l>
+            <l>Leaving us nothing but the Form of Law:</l>
+            <l>Whereby Rogues profligate, and hardned in their Vice</l>
+            <l>Proſcribe all Loyal men, as factions raiſe their price.</l>
+            <l>Poor Land! whoſe Folly to ſwift Ruine tends,</l>
+            <l>Deſpis'd by Foes, unaided by its Friends.</l>
+            <l>In vain does Heaven her Fiery Comets light,</l>
+            <l>We ſtifle th' Evidence, and ſtill grope in night:</l>
+            <l>Baffled by Fools, betray'd by perjur'd Knaves,</l>
+            <l>Rather than Subjects, we'll be branded Slaves:</l>
+            <l>And by a vain purſuit of airy Bliſs,</l>
+            <l>Forefeit Subſtantial real Happineſs;</l>
+            <lg>
+               <l>Change Monarchy (from all oppreſſion free)</l>
+               <l>Religion, and its Native Purity,</l>
+               <l>True Freedom, without Lawleſs Liberty:</l>
+            </lg>
+            <lg>
+               <l>For thouſand Maſters, worſt of Tyranny,</l>
+               <l>For frantick Zeal, formal Hypocriſie,</l>
+               <l>For Licence to rude Rabbles, Hell and Slavery.</l>
+            </lg>
+            <l>And all this wrought by old known Cheats and Rooks,</l>
+            <l>Gods! to be twice Cajol'd by Cants and Looks!</l>
+            <l>Sots, worſe than Brutes, to run into that Net</l>
+            <l>We ſee, and know for our deſtruction ſet!</l>
+         </div>
+         <div type="poem">
+            <pb n="2" facs="tcp:170827:2"/>
+            <!-- PDF PAGE 48 -->
+            <head>TO THE KING.</head>
+            <l>ARiſe, O thou once Mighty <hi>CHARLES,</hi> ariſe,</l>
+            <l>Diſpel thoſe miſts that Cloud thy piercing Eyes;</l>
+            <l>Read o're thy Martyr'd Fathers Tragick Story,</l>
+            <l>Learn by his Murder, different ways to glory.</l>
+            <lg>
+               <l>How fatal 'tis, by him is underſtood,</l>
+               <l>To yield to Subjects, when they thirſt for Blood,</l>
+               <l>And cloak their black deſigns with Publick Good.</l>
+            </lg>
+            <l>As thou art God-like by thy <hi>Pity,</hi> ſhow</l>
+            <l>That thou art God-like by thy <hi>Justice</hi> too:</l>
+            <l>Leſt we ſhould count thy greateſt Vertue, Vice,</l>
+            <l>And call thy Mercy, ſervile Cowardiſe.</l>
+            <lg>
+               <l>Of Old, when daring Giants skal'd the Skie,</l>
+               <l>The King of Gods ne're laid his Thunder by,</l>
+               <l>To hear Addreſſes for their Property.</l>
+            </lg>
+            <l>But quell'd <hi>His</hi> Rebels by a ſtroke Divine,</l>
+            <l>And left example how to deal with <hi>Thine.</hi>
+            </l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-Printed in the Year, 1681.</p>
+            <pb facs="tcp:170827:2"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:170827:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+         </div>
+      </back>
+   </text>
+</TEI>
